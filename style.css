@@ -20,6 +20,13 @@
     background-color: #302c54;
     border-style: none;
 }
+strong{
+    color: #42ffff;
+}
+table{
+    color: white;
+    width: 400px;
+}
 body{
     height: 100%;
     align-items: center;
