@@ -1,0 +1,33 @@
+.parag{
+    text-align: justify;
+    color: #fffffe;
+}
+.card{
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto 25%;
+    border-left-color: white;
+    border-left-style: solid;
+    border-right-color: white;
+    border-right-style: solid;
+}
+.forward{
+    position: fixed;
+    margin: 50px;
+    top: 80%;
+    left: 90%;
+    color: white;
+    background-color: #302c54;
+    border-style: none;
+}
+body{
+    height: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #302c54;
+    font-size: x-large;
+}
+html{
+    height: 97%;
+}
