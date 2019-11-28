@@ -21,6 +21,16 @@
     border-style: none;
     font-size: small;
 }
+.backward{
+    position: fixed;
+    margin: 50px;
+    top: 80%;
+    left: 0%;
+    color: white;
+    background-color: #302c54;
+    border-style: none;
+    font-size: small;
+}
 strong{
     color: #42ffff;
 }
