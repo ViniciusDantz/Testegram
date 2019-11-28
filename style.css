@@ -11,6 +11,10 @@
     border-right-color: white;
     border-right-style: solid;
 }
+li{
+    display: inline list-item;
+    color: white;
+}
 .forward{
     position: fixed;
     margin: 50px;
